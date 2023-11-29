@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @LuckySpock
-- 👀 I’m interested in Cardano Blockchain
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on any small starter frendly projects
+- 👀 I’m currently learning Python
 - 📫 How to reach me channelluckyspock@gmail.com
 
 <!---
